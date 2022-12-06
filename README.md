@@ -10,6 +10,7 @@ Welcome to my Advent of Code[^aoc] Kotlin project. Here are my solutions for thi
 | 03  | [Rucksack Reorganization](src/Day03.kt) |   🌟   |   🌟   |
 | 04  | [Camp Cleanup](src/Day04.kt)            |   🌟   |   🌟   |
 | 05  | [Supply Stacks](src/Day05.kt)           |   🌟   |   🌟   |
+| 06  | [Tuning Trouble](src/Day06.kt)          |   🌟   |   🌟   |
 
 [^aoc]: [Advent of Code](https://adventofcode.com) – An annual event of Christmas-oriented programming challenges started December 2015.
 Every year since then, beginning on the first day of December, a programming puzzle is published every day for twenty-four days.
