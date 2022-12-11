@@ -15,6 +15,7 @@ Welcome to my Advent of Code[^aoc] Kotlin project. Here are my solutions for thi
 | 08  | [Treetop Tree House](src/Day08.kt)      |   🌟   |   🌟   |
 | 09  | [Rope Bridge](src/Day09.kt)             |   🌟   |   🌟   |
 | 10  | [Cathode-Ray Tube](src/Day10.kt)        |   🌟   |   🌟   |
+| 11  | [Monkey in the Middle](src/Day11.kt)    |   🌟   |   🌟   |
 
 [^aoc]: [Advent of Code](https://adventofcode.com) – An annual event of Christmas-oriented programming challenges started December 2015.
 Every year since then, beginning on the first day of December, a programming puzzle is published every day for twenty-four days.
