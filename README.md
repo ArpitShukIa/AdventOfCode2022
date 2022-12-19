@@ -22,6 +22,7 @@ Welcome to my Advent of Code[^aoc] Kotlin project. Here are my solutions for thi
 | 15  | [Beacon Exclusion Zone](src/Day15.kt)   |   🌟   |   🌟   |
 | 16  | [Proboscidea Volcanium](src/Day16.kt)   |   🌟   |   🌟   |
 | 17  | [Pyroclastic Flow](src/Day17.kt)        |   🌟   |   🌟   |
+| 18  | [Boiling Boulders](src/Day18.kt)        |   🌟   |   🌟   |
 
 [^aoc]: [Advent of Code](https://adventofcode.com) – An annual event of Christmas-oriented programming challenges started December 2015.
 Every year since then, beginning on the first day of December, a programming puzzle is published every day for twenty-four days.
