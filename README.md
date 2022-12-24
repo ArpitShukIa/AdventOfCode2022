@@ -28,6 +28,7 @@ Welcome to my Advent of Code[^aoc] Kotlin project. Here are my solutions for thi
 | 21  | [Monkey Math](src/Day21.kt)              |   🌟   |   🌟   |
 | 22  | [Monkey Map](src/Day22.kt)               |   🌟   |   🌟   |
 | 23  | [Unstable Diffusion](src/Day23.kt)       |   🌟   |   🌟   |
+| 24  | [Blizzard Basin](src/Day24.kt)           |   🌟   |   🌟   |
 
 [^aoc]: [Advent of Code](https://adventofcode.com) – An annual event of Christmas-oriented programming challenges started December 2015.
 Every year since then, beginning on the first day of December, a programming puzzle is published every day for twenty-four days.
